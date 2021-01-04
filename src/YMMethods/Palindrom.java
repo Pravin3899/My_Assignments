@@ -10,9 +10,10 @@ public class Palindrom
 
 class Checkno
 {
+	    
 	    void NumberPalindrom(int num)   //paraqmeters
 	    {
-	    	int revnum=0;
+		    int revnum=0; 
 	        int x=num;
 	        while(num>0)
 	        {
