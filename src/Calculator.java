@@ -8,6 +8,7 @@ class Calculate
 	public static int substraction(int a, int b)
 	{
 		return a-b;
+		//System.out.println("hi");
 	}
 
 	public static int multipliction(int a, int b)
