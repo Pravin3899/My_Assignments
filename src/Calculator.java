@@ -9,6 +9,7 @@ class Calculate
 	{
 		return a-b;
 		//System.out.println("hi");
+		//new 
 	}
 
 	public static int multipliction(int a, int b)
