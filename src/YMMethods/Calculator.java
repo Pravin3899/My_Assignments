@@ -1,3 +1,4 @@
+package YMMethods;
 class Calculate
 {
 	public static int addition(int a, int b)

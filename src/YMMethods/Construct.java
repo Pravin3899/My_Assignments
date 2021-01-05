@@ -1,3 +1,4 @@
+package YMMethods;
 public class Construct {
    public static void main(String[] args) {
 	H h1 =new H();
